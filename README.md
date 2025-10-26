@@ -5,8 +5,8 @@ This course consists of a research project in predictive modeling and agricultur
 by Dr. Shan Du. The student must complete a research thesis at the end of this course and a public
 presentation.
 
-This thesis will explore the development of a predictive model to enhance agricultural productivity in Java,
-Indonesia, using Long Short-Term Memory (LSTM) and transformer networks. The student will employ
+This thesis will explore the development of a predictive model to enhance agricultural productivity in Saskatchewan,
+Canada, using Long Short-Term Memory (LSTM) and transformer networks. The student will employ
 remote sensing to predict crop yield based on available field images, then map this data with current weather
 conditions in the area. This analysis will be conducted over several time intervals, leveraging LSTM and
 transformer to forecast future yields. The study aims to find correlations between weather patterns, land
